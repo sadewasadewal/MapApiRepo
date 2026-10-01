@@ -1,0 +1,6 @@
+{
+  "name": "GeoChat - Interactive Maps AI Assistant",
+  "description": "An interactive map-based chatbot powered by Gemini and real-time Google Maps data for intelligent location discovery and travel assistance.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
